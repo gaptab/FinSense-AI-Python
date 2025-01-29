@@ -1,0 +1,2 @@
+model,accuracy,clusters
+Gradient Boosting Classifier,0.54,"{0: 400, 1: 100}"
